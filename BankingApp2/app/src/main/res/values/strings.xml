@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Start">Start</string>
+    <string name="idNo">IdNo</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="txtFristName">Name</string>
+    <string name="txtLastName">Name</string>
+    <string name="btnPreview">Preview</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="longId">Long Id</string>
+    <string name="btnHome">Home</string>
+</resources>
